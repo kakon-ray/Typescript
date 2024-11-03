@@ -25,5 +25,4 @@
     };
     const student1 = addCourseToStudent({ name: 'Kakon Ray', email: 'thisiskakonray@gmail.com', devType: 'NLWD' });
     const student2 = addCourseToStudent({ name: 'Mr.X', email: 'thisiskakonray2@gmail.com', devType: 'NLWD' });
-    console.log(student1);
 }
